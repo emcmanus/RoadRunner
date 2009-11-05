@@ -9,3 +9,7 @@ log/*
 tmp/*
 .DS_Store
 ._*
+
+TODO.txt
+/viewer/flash/bin/*
+/viewer/flash/bin-debug/*
