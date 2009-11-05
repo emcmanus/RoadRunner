@@ -13,3 +13,4 @@ tmp/*
 TODO.txt
 /viewer/flash/bin/*
 /viewer/flash/bin-debug/*
+/designs/*
